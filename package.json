@@ -1,0 +1,10 @@
+{
+  "name": "hello-from-node",
+  "version": "1.0.0",
+  "description": "just simple app for testing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "ISC",
+}
